@@ -1,2 +1,3 @@
 # hello-world
 this is part of a tutorial... no idea what I'm doing... just following the tutorial... 
+Write about myself, the tutorial says... it will be fun, it says... why? says I. 
